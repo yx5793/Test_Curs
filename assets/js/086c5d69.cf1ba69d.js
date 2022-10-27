@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[544],{9153:e=>{e.exports=JSON.parse('{"title":"Lab","slug":"/Lab/","permalink":"/Test_Curs/Lab/","navigation":{"previous":{"title":"Template-chapter","permalink":"/Test_Curs/Lecture/Template-Chapter/"},"next":{"title":"Template chapter","permalink":"/Test_Curs/Lab/Template-chapter/"}}}')}}]);
