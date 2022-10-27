@@ -1,7 +1,7 @@
 # OER Template Repository
 
 These are open educational resources ([OER](https://en.wikipedia.org/wiki/Open_educational_resources)).
-The repository should be used as a template for the your own classes.
+The repository should be used as a template for the your own classes. THIS IS MY EXAMPLE.
 
 ## Using the Content
 
