@@ -45,8 +45,8 @@ docusaurus:
       - Template-chapter: /build/make_assets/content/chapters/template-chapter/lecture/_site
     config_meta:
       title: Template Repo
-      url: http://localhost/
-      baseUrl: /oer-template/
+      url: http://yx5793.github.io/
+      baseUrl: /Test_Curs/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
